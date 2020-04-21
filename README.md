@@ -25,7 +25,7 @@ Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases y
 4. __Eventually lead their own Open Leaders Programs__ - After training and mentoring, we expect that most, if not all our mentees, will be in a position to lead their own Open Leaders Programs that promote Internet Health.
 
 ## Organizing ##
-We training and mentoring Program on Accessible Online Security is 14 weeks. We will have 14 online weekly training sessions. Participants also get an opportunity to network with facilitators/coaches/mentors from the Industry, and get guidance on their respective projects
+We'll have 14 online weekly training sessions. Participants also get an opportunity to network with facilitators/coaches/mentors from the Industry, and get guidance on their respective projects
 
 ## Multipliers ##
 
