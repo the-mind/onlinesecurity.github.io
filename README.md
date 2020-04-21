@@ -29,7 +29,7 @@ We'll have 14 online weekly training sessions. Participants also get an opportun
 
 ## Multipliers ##
 
-One of the most important concepts we learned in the Open Leaders X Program is the advanatage of Mentoring Multipliers as opposed to Centralized Learning. 
+One of the most important concepts we learnt in the Open Leaders X Program is the advanatage of Mentoring Multipliers as opposed to Centralized Learning. 
 
 __Centralized Learning__ - I run a large webinar that trains a 1,000 people a year
 
