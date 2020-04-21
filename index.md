@@ -29,6 +29,24 @@ Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases y
 3. __Cohort Host__ - Some Open Leaders may become Cohort Hosts and assist in running the Accessible Online Security Program. Others become Hosts in their counterparts' Open Leaders Programs.   
 4. __Eventually lead their own Open Leaders Programs__ - After training and mentoring, we expect that most, if not all our mentees, will be in a position to lead their own Open Leaders Programs that promote Internet Health.
 
+## Multipliers ##
+
+One of the most important concepts we learned in the Open Leaders X Program is the advantage Mentoring Multipliers has over Centralized Learning. 
+
+__Centralized Learning__ - I run a large webinar that trains a 1,000 people a year
+
+__Mentoring Multipliers__ - I mentor 2 mentees every 6 months and every mentee goes on to do the same.
+
+Year   | Centralized Learning  | Mentoring Multipliers
+-------| --------------------  |-----------------------
+1      |    1000               | 9
+2      |    2000               | 81
+3      |    3000               | 729
+4      |    4000               | 6561
+5      |    5000               | 59049
+
+It's crucial to have people in the movement who are onboarding others in a way that multiplies itself. 
+
 ## Program Hosts 
 https://www.mozillapulse.org/profile/1427
 
