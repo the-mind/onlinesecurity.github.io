@@ -35,7 +35,7 @@ One of the most important concepts we learned in the Open Leaders X Program is t
 
 __Centralized Learning__ - I run a large webinar that trains a 1,000 people a year
 
-__Mentoring Multipliers__ - I mentor 2 mentees every 6 months and every mentee goes on to do the same.
+__Mentoring Multipliers__ - I mentor 3 mentees every 4 months and every mentee goes on to do the same.
 
 Year   | Centralized Learning  | Mentoring Multipliers
 -------| --------------------  |-----------------------
