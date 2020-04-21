@@ -22,7 +22,7 @@ Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases y
 1. __Mentee/Paricipant__ - Open Leaders are trained and mentored on various Online Security and Digital Safety Concepts
 2. __Future Mentor/Expert/Facilitator__ - Open Leaders become mentors,experts and facilitators of future cohorts of our Accessible Online Security Program. They also become trainers & mentors in their local community.
 3. __Cohort Host__ - Some Open Leaders may become Cohort Hosts and assist in running the Accessible Online Security Program. Others my become Hosts in their counterparts Open Leaders Programs.   
-4. __Eventually lead their own Open Leaders Programs__ - After training and mentoring, we expect that most, if not all our mentees, will be in a position to lead their Open Leaders Programs that promote Internet Health.
+4. __Eventually lead their own Open Leaders Programs__ - After training and mentoring, we expect that most, if not all our mentees, will be in a position to lead their own Open Leaders Programs that promote Internet Health.
 
 ## Organizing ##
 We training and mentoring Program on Accessible Online Security is 14 weeks. We will have 14 online weekly training sessions. Participants also get an opportunity to network with facilitators/coaches/mentors from the Industry, and get guidance on their respective projects
