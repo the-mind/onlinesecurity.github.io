@@ -27,6 +27,6 @@ Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases y
 ## Organizing ##
 We training and mentoring Program on Accessible Online Security is 14 weeks. We will have 14 online weekly training sessions. Participants also get an opportunity to network with facilitators/coaches/mentors from the Industry, and get guidance on their respective projects
 
-## How you can contribute##
+## How you can contribute ##
 This course in Open Source and you can contribute to it by adding concepts/topics that you feel have been left out. Just submit a Pull Request and we'll review it. 
   
