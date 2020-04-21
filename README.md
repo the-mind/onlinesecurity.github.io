@@ -27,6 +27,24 @@ Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases y
 ## Organizing ##
 We training and mentoring Program on Accessible Online Security is 14 weeks. We will have 14 online weekly training sessions. Participants also get an opportunity to network with facilitators/coaches/mentors from the Industry, and get guidance on their respective projects
 
+## Multipliers ##
+
+One of the most important concepts we learned in the Open Leaders X Program is the advanatage of Mentoring Multipliers as opposed to Centralized Learning. 
+
+__Centralized Learning__ - I run a large webinar that trains a 1,000 people a year
+
+__Mentoring Multipliers__ - I mentor 2 mentees every 6 months and every mentee goes on to do the same.
+
+Year   | Centralized Learning  | Mentoring Multipliers
+-------| --------------------  |-----------------------
+1      |    1000               | 9
+2      |    2000               | 81
+3      |    3000               | 729
+4      |    4000               | 6561
+5      |    5000               | 59049
+
+It's crucial to have people in the movement who are onboarding others in a way that multiplies themselves. 
+
 ## How you can contribute ##
 1. __Contributing__ - This course and training content is Open Source and you can contribute to it by adding concepts/topics that you feel have been left out. Just submit a Pull Request and we'll review it. Have a look at our [Contributing Guidelines](https://github.com/the-mind/OnlineSecurity/blob/master/CONTRIBUTING.md).
 2. __Mentoring/Training__ - If you want to mentor or train our mentees in a specific topic, kindly contact maurineeng@gmail.com or brianobie91@gmail.com .
