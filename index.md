@@ -1,6 +1,6 @@
 # 1. Introduction
 
-Welcome to the Accessible Online Security Program -  a training and mentorship program aimed at imparting knowledge and practical skills on Online Security and Digital Privacy. With the increased migration of operations online i.e business, education and e-commerce, there is a need to ensure people keep their information safe. This program aims at raising awareness and next generation of digital safety champions. Over a period of 14 weeks, starting from April 8th 2020, this program will focus on the follwing key main areas as our pillars:
+Welcome to the Accessible Online Security Program -  a training and mentorship program aimed at imparting knowledge and practical skills on Online Security and Digital Privacy. With the increased migration of operations online i.e business, education and e-commerce, there is a dire need to ensure everyone keep their information(especially their didgital data) safe. This program aims at raising awareness on Online Security and nurturing the next generation of Digital Safety champions. Over a period of 14 weeks, starting from April 8th 2020, this program will focus on the follwing key main areas as our pillars:
 
 1. Information Security
 2. Secure Online Communication
@@ -28,6 +28,9 @@ Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases y
 2. __Future Mentor/Expert/Facilitator__ - Open Leaders become mentors, experts and facilitators of future cohorts of our Accessible Online Security Program. They also become trainers & mentors in their local community.
 3. __Cohort Host__ - Some Open Leaders may become Cohort Hosts and assist in running the Accessible Online Security Program. Others my become Hosts in their counterparts Open Leaders Programs.   
 4. __Eventually lead their own Open Leaders Programs__ - After training and mentoring, we expect that most, if not all our mentees, will be in a position to lead their own Open Leaders Programs that promote Internet Health.
+
+## Program Hosts 
+https://www.mozillapulse.org/profile/1427
 
 ## Acknowledgements
 
