@@ -24,8 +24,8 @@ Kenyans were ranked the most care-free users of the Internet globally. Only four
 Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases yearly. Among the top ranking types of cybercrime include social engineering and identity theft, email spam and phishing, and online fraud scams. Despite having one of the highest internet usage rates in the continent, there is a distinct skill gap on digital safety. Our training program aims to bridge this gap. 
 
 ## Movement Journey ##
-1. __Mentee/Participant__ - Open Leaders are trained and mentored on various Online Security and Digital Safety Concepts. 
-2. __Future Mentor/Expert/Facilitator__ - Open Leaders become mentors, experts and facilitators of future cohorts of our Accessible Online Security Program. They also become trainers & mentors in their local community.
+1. __Mentee/Participant__ - Mentees are trained and mentored on various Online Security and Digital Safety Concepts. They then become Open Leaders.
+2. __Future Mentor/Expert/Facilitator__ - As Open Leaders, they become mentors, experts and facilitators of future cohorts of our Accessible Online Security Program. They also become trainers & mentors in their local community.
 3. __Cohort Host__ - Some Open Leaders may become Cohort Hosts and assist in running the Accessible Online Security Program. Others become Hosts in their counterparts' Open Leaders Programs.   
 4. __Eventually lead their own Open Leaders Programs__ - After training and mentoring, we expect that most, if not all our mentees, will be in a position to lead their own Open Leaders Programs that promote Internet Health.
 
