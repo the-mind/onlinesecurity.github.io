@@ -29,7 +29,7 @@ We training and mentoring Program on Accessible Online Security is 14 weeks. We 
 
 ## How you can contribute ##
 1. __Contributing__ - This course and training content is Open Source and you can contribute to it by adding concepts/topics that you feel have been left out. Just submit a Pull Request and we'll review it. Have a look at our [Contributing Guidelines](https://github.com/the-mind/OnlineSecurity/blob/master/CONTRIBUTING.md).
-2. __Mentoring/Training__ - If you want to mentor or train our mentees in a specific topic, kindly contact us.
+2. __Mentoring/Training__ - If you want to mentor or train our mentees in a specific topic, kindly contact maurineeng@gmail.com or brianobie91@gmail.com .
 
 ## License ##
 [Mozilla Public License 2.0](https://github.com/the-mind/OnlineSecurity/blob/master/LICENSE)
