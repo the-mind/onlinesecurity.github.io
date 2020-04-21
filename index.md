@@ -19,7 +19,7 @@ __Outcome:__ The Open Leaders will in turn train and mentor their community memb
 Create a safe space where our mentees and mentors will learn from another, share ideas and eventually collaborate on Open Source Projects that promote Internet Health.
 
 ## Urgency ##
-Kenyans were ranked the most care-free users of the Internet globally. Only four in every 10 internet users in Kenya are concerned about their privacy online, according to a report by the United Nations Conference on Trade and Development(UNCTAD) released on September 2019. This is the lowest level in the world according to the report and ranks poorly against the global average of eight in every 10 users. Read the [official report by UNCTAD here](https://unctad.org/en/PublicationsLibrary/der2019_en.pdf){target="_blank"} and the [press release here.](https://www.nation.co.ke/news/Kenyans-the-most-carefree-users-of-internet/1056-5261054-1b6rqjz/index.html){target="_blank"}  
+Kenyans were ranked the most care-free users of the Internet globally. Only four in every 10 internet users in Kenya are concerned about their privacy online, according to a report by the United Nations Conference on Trade and Development(UNCTAD) released on September 2019. This is the lowest level in the world according to the report and ranks poorly against the global average of eight in every 10 users. Read the [official report by UNCTAD here](https://unctad.org/en/PublicationsLibrary/der2019_en.pdf){:target="_blank"} and the [press release here.](https://www.nation.co.ke/news/Kenyans-the-most-carefree-users-of-internet/1056-5261054-1b6rqjz/index.html){:target="_blank"}  
 
 Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases yearly. Among the top ranking types of cybercrime include social engineering and identity theft, email spam and phishing, and online fraud scams. Despite having one of the highest internet usage rates in the continent, there is a distinct skill gap on digital safety. Our training program aims to bridge this gap. 
 
@@ -52,5 +52,5 @@ https://www.mozillapulse.org/profile/1427
 
 ## Acknowledgements
 
-This training and mentoring program would not be possible without funding from our Sponsor [e.KRAAL Innovation Hub](https://e-kraal.com/){target="_blank"} , our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs){target="_blank"} & [Chad Sansing](https://twitter.com/chadsansing){target="_blank"}  and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code){target="_blank"} . 
+This training and mentoring program would not be possible without funding from our Sponsor [e.KRAAL Innovation Hub](https://e-kraal.com/){:target="_blank"} , our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs){:target="_blank"} & [Chad Sansing](https://twitter.com/chadsansing){:target="_blank"}  and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code){:target="_blank"} . 
 
