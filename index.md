@@ -52,5 +52,5 @@ https://www.mozillapulse.org/profile/1427
 
 ## Acknowledgements
 
-This training and mentoring program would not be possible without funding from our Sponsors [e.KRAAL Innovation Hub](https://e-kraal.com/), our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs) & [Chad Sansing](https://twitter.com/chadsansing) and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code). 
+This training and mentoring program would not be possible without funding from our Sponsor [e.KRAAL Innovation Hub](https://e-kraal.com/), our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs) & [Chad Sansing](https://twitter.com/chadsansing) and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code). 
 
