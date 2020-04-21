@@ -6,9 +6,9 @@ The Accessible Online Security program is a training and mentorship program aime
 3. Privacy Laws and Regulation 
 
 ## Impact ##
-Vision: Nurture new voices of Openness and Digital Safety in our community. 
+__Vision:__ Nurture new voices of Openness and Digital Safety in our community. 
 
-Outcome: The Open Leaders will in turn train and mentor their community members on Online Security and Digital Safety and this will positively impact and promote Internet Health. 
+__Outcome:__ The Open Leaders will in turn train and mentor their community members on Online Security and Digital Safety and this will positively impact and promote Internet Health. 
 
 ## Purpose ##
 Create a safe space where our mentees and mentors will learn from another, share ideas and eventually collaborate on Open Source Projects that promote Internet Health.
@@ -18,4 +18,6 @@ Kenyans were ranked the most care-free users of the Internet globally. Only four
 
 Furthermore, Kenya spends up to 295M USD in responding to cybercrime cases yearly. Among the top ranking types of cybercrime include social engineering and identity theft, email spam and phishing, and online fraud scams. Despite having one of the highest internet usage rates in the continent, there is a distinct skill gap on digital safety. 
 
+## Movement Journey##
+1. Mentee/Paricipant - 
   
