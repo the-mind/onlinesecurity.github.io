@@ -29,6 +29,9 @@ We training and mentoring Program on Accessible Online Security is 14 weeks. We 
 
 ## How you can contribute ##
 1. __Contributing__ - This course and training content is Open Source and you can contribute to it by adding concepts/topics that you feel have been left out. Just submit a Pull Request and we'll review it. 
-2. __Mentoring/Training__ - If you want to mentor or train our mentees in a specific topic, kindly contact us.  
+2. __Mentoring/Training__ - If you want to mentor or train our mentees in a specific topic, kindly contact us.
+
+## License ##
+Mozilla Public License 2.0 
 
   
