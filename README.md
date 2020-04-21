@@ -43,7 +43,7 @@ Year   | Centralized Learning  | Mentoring Multipliers
 4      |    4000               | 6561
 5      |    5000               | 59049
 
-It's crucial to have people in the movement who are onboarding others in a way that multiplies themselves. 
+It's crucial to have people in the movement who are onboarding others in a way that multiplies itself. 
 
 ## How you can contribute ##
 1. __Contributing__ - This course and training content is Open Source and you can contribute to it by adding concepts/topics that you feel have been left out. Just submit a Pull Request and we'll review it. Have a look at our [Contributing Guidelines](https://github.com/the-mind/OnlineSecurity/blob/master/CONTRIBUTING.md).
