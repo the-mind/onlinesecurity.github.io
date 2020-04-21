@@ -6,6 +6,8 @@ Welcome to the Accessible Online Security Program -  a training and mentorship p
 2. Secure Online Communication
 3. Privacy Laws and Regulation
 
+We were interviewed by the Mozilla Foundation on what our program entails and and you can read [it here](https://foundation.mozilla.org/en/blog/accessible-online-security-open-leaders-x-program/). 
+
 ## Impact
 
 __Vision:__ Nurture new voices of Openness and Digital Safety in our community.
