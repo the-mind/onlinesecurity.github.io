@@ -47,9 +47,6 @@ Year   | Centralized Learning  | Mentoring Multipliers
 
 It's crucial to have people in the movement who are onboarding others in a way that multiplies itself. 
 
-## Program Hosts 
-https://www.mozillapulse.org/profile/1427
-
 ## Acknowledgements
 
 This training and mentoring program would not be possible without funding from our Sponsor [e.KRAAL Innovation Hub](https://e-kraal.com/){:target="_blank"} , our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs){:target="_blank"} & [Chad Sansing](https://twitter.com/chadsansing){:target="_blank"}  and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code){:target="_blank"} . 
