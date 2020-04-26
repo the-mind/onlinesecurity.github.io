@@ -39,7 +39,7 @@ Whenever you land on a new site you haven’t heard about, look at its URL struc
 
 If it starts with __“http://”__ , then the site owner hasn’t acquired an SSL certificate, which should put you on your guard when doing business on that page. 
 
-![image](https://github.com/the-mind/OnlineSecurity/blob/master/images/https.png)
+![image](images/https.png)
 
 ### 3. VirusTotal will scan the website and tell you if it’s malicious or not
 
@@ -49,7 +49,7 @@ Whenever you are unsure if a site is safe or not, you can simply pop it into Vir
 
 It’s very easy to use, and best of all, free.
 
-![image](https://github.com/the-mind/OnlineSecurity/blob/master/images/virustotal.png)
+![image](images/virustotal.png)
 
 ### 4. Use an ad blocker 
 If you are concerned about malvertising and other malicious ads, you could consider installing an ad blocker. This will prevent almost all types of ads from appearing on pages you visit, including malicious ones.
@@ -79,6 +79,10 @@ Here’s a short list of URL checkers to help you out:
 1. Often __“free downloads”__ install malware on your system.
 1. Sites inundated with __“Buy Now”__ offers and pop-ups, indicates trouble.
 1. __Browser Hijacking:__ If a site won’t allow you to access any other site, be suspicious! Has your homepage or search engine has been modified without your permission?
+
+## Resources
+
+[Comprehensive article by Heimdall Security](https://heimdalsecurity.com/blog/malicious-websites/)
 
 ## Activity
 
