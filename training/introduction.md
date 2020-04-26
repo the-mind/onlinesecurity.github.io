@@ -1,4 +1,4 @@
-# Introduction to Cybersecurity 
+# 2. Introduction to Cybersecurity 
 
 This module covers the definition of Cybersecurity and explores its importance. 
 It also explores the role every individual has to play ito ensure security. 
