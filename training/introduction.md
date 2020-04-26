@@ -69,7 +69,7 @@ Who is behind cyber attacks?
 * Competitors  
 *	Political activists commonly known as Hacktivists
 
-Next > 2. [Cybersecurity Threats](https://the-mind.github.io/OnlineSecurity/training/cybersecuritythreats)
+Next >  [3. Cybersecurity Threats](https://the-mind.github.io/OnlineSecurity/training/cybersecuritythreats)
 
 
 
