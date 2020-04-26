@@ -18,7 +18,7 @@ Cyber security is characterized by the CIA Triad:
 * __Integrity__: Prevent unauthorized modification of information or files
 * __Availability__: Ensure timely access to resources
 
-![](https://github.com/the-mind/OnlineSecurity/blob/master/images/CIAtriad.jpg)
+![](../images/CIAtriad.jpg)
 
 ## Elements of Cybersecurity 
 1. __Network Security__ - is the practice of securing a computer network from intruders, whether targeted attackers or opportunistic malware.
