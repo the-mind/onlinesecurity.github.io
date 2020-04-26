@@ -33,7 +33,7 @@ Furthermore, Kenya spends up to __295M USD__ in responding to cybercrime cases y
 
 One of the most important concepts we learned in the Open Leaders X Program is the advantage Mentoring Multipliers has over Centralized Learning. 
 
-__Centralized Learning__ - I run a large webinar that trains a 1,000 people a year
+__Centralized Learning__ - I run a large webinar that trains a 1,000 people a year.
 
 __Mentoring Multipliers__ - I mentor 3 mentees every 4 months and every mentee goes on to do the same.
 
