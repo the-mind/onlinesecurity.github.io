@@ -21,12 +21,12 @@ Drive-by downloads often don’t require your consent, or tricking you into givi
 ## How to check a website for malware of phishing attempts
 The best way to protect yourself from malicious and phishing websites is to know how to detect one and also, to be prepared. 
 
-[Here are free security tools that you can use for your online protection.](https://heimdalsecurity.com/blog/free-cyber-security-tools-list/)  
+[Here are free security tools that you can use for your online protection.](https://heimdalsecurity.com/blog/free-cyber-security-tools-list/){:target="_blank"}  
 
 Here are some helpful tips that can help you:
 
 ### 1. Check if the URL page's is genuine
-Phishing websites, in particular, will use URL structures that are similar to the target webpage. For example, the link name might be www.instgran.com instead of www.instagram.com.
+Phishing websites, in particular, will use URL structures that are similar to the target webpage. For example, the link name might be [instagran.com](www.instgran.com){:target="_blank"} instead of [instagram.com](www.instagram.com){:target="_blank"}.
 
 For this reason, we strongly suggest you always glance at a page’s URL and check for anything out of the ordinary.
 
@@ -54,7 +54,7 @@ It’s very easy to use, and best of all, free.
 ### 4. Use an ad blocker 
 If you are concerned about malvertising and other malicious ads, you could consider installing an ad blocker. This will prevent almost all types of ads from appearing on pages you visit, including malicious ones.
 
-Here’s a [link that compares ad blockers](https://www.tomsguide.com/round-up/best-adblockers-privacy-extensions), in case you would like an in-depth review of them.
+Here’s a [link that compares ad blockers](https://www.tomsguide.com/round-up/best-adblockers-privacy-extensions){:target="_blank"}, in case you would like an in-depth review of them.
 
 ### 5. Keep all of your software updated
 Malicious websites with exploit kits embedded into them will hunt down vulnerabilities in your software, which then function as gates for more types of malware infections.
@@ -68,10 +68,10 @@ Fortunately, there are dedicated tools that can check these shortened links to m
 
 Here’s a short list of URL checkers to help you out:
 
-* [Checkshorturl](http://www.checkshorturl.com/)
-* [Getlinkinfo](http://www.getlinkinfo.com/)
-* [Untiny](http://untiny.com/)
-* [Linkexpander](http://www.linkexpander.com/)
+* [Checkshorturl](http://www.checkshorturl.com/){:target="_blank"}
+* [Getlinkinfo](http://www.getlinkinfo.com/){:target="_blank"}
+* [Untiny](http://untiny.com/){:target="_blank"}
+* [Linkexpander](http://www.linkexpander.com/){:target="_blank"}
 
 ## More quick tips for identifying malicious websites
 1. Sites that say they have __“Scanned your computer and detected virus”__ should always be treated with suspicion. 
@@ -82,11 +82,11 @@ Here’s a short list of URL checkers to help you out:
 
 ## Resources
 
-[Comprehensive article by Heimdall Security](https://heimdalsecurity.com/blog/malicious-websites/)
+[Comprehensive article by Heimdall Security](https://heimdalsecurity.com/blog/malicious-websites/){:target="_blank"}
 
 ## Activity
 
-Take participants through identifying malicious websites
+Take participants through identifying malicious websites practically. 
 
 Next > Personal Security 
 
