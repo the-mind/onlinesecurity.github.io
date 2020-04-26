@@ -39,7 +39,7 @@ Whenever you land on a new site you haven’t heard about, look at its URL struc
 
 If it starts with __“http://”__ , then the site owner hasn’t acquired an SSL certificate, which should put you on your guard when doing business on that page. 
 
-![image](https://github.com/the-mind/OnlineSecurity/blob/master/images/https.png)
+![image](../images/https.png)
 
 ### 3. VirusTotal will scan the website and tell you if it’s malicious or not
 
@@ -49,7 +49,7 @@ Whenever you are unsure if a site is safe or not, you can simply pop it into Vir
 
 It’s very easy to use, and best of all, free.
 
-![virus total results](https://github.com/the-mind/OnlineSecurity/blob/master/images/virustotal.png)
+![virus total results](../images/virustotal.png)
 
 ### 4. Use an ad blocker 
 If you are concerned about malvertising and other malicious ads, you could consider installing an ad blocker. This will prevent almost all types of ads from appearing on pages you visit, including malicious ones.
