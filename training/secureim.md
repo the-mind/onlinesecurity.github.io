@@ -4,7 +4,7 @@
 
 These settings are a reasonable middle ground for reducing the amount of data that the app creates locally, and minimizing what is exposed as clear text on iCloud/Google Drive.
 
-1. __Go to: Settings -> Account -> Privacy__
+1.__Go to: Settings -> Account -> Privacy__
 
 * Tweak the following settings:
 
@@ -22,7 +22,7 @@ These settings are a reasonable middle ground for reducing the amount of data th
 
   * Show Security Notifications: ON
 
-3. __Go to: Settings -> Chats__
+3.__Go to: Settings -> Chats__
 
 * Tweak the following settings:
 
@@ -30,24 +30,24 @@ These settings are a reasonable middle ground for reducing the amount of data th
 
   * Chat Backup -> Auto Backup: OFF
 
-4. __Go to: Settings -> Notifications__
+4.__Go to: Settings -> Notifications__
 
 * Tweak the following settings:
 
   * Show Preview: OFF (unfortunately, this still displays the sender’s name)
   
 ## Telegram
-1. Enable 2-factor authentication:
+1.__Enable 2-factor authentication:__
 
 * Instructions: [How 2-step verification works](https://telegram.org/faq#q-how-does-2-step-verification-work){:target="_blank"}
 * Enable: Settings –> Privacy and Security –> 2-Step Verification
 
-2. Use username and share it instead of the phone number.
+2.__Use username and share it instead of the phone number.__
 
 * Username can be changed. Phone numbers can’t.
 * However any usernames are searchable and anyone can send you a messages via t.me/username.
 
-3. Telegram provides groups and user-to-user chat. Both types can be secured.
+3.__Telegram provides groups and user-to-user chat. Both types can be secured.__
 
 * User-to-user chat is not end-to-end encrypted by default. To encrypt it, you need to enable a feature called Secret Chats:
 
@@ -62,7 +62,7 @@ These settings are a reasonable middle ground for reducing the amount of data th
     * iOS: Start a new message (tap the icon in the top-right corner in Messages). Then tap “New secret chat”.
     * Android: Swipe right to open the menu, then ‘New secret chat’.
 
-4. If you are managing a Group on Telegram:
+4.__If you are managing a Group on Telegram:__
 
 * Groups are private by default. They can be turned to public.
 * Group Permissions: It is useful to restrict all members from posting specific kinds of content if inappropriate.
