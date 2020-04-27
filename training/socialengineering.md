@@ -68,7 +68,7 @@ Participants should watch the following videos:
 
 Participants will also be taken through practical identification of phishing emails during the video session. 
 
-Next > 2.2 Malware
+Next > [2.2 Malware](https://the-mind.github.io/OnlineSecurity/training/malware)
 
 
 
