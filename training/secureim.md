@@ -16,7 +16,7 @@ These settings are a reasonable middle ground for reducing the amount of data th
 
   * Read Receipts: OFF
 
-2. __Go to: Settings -> Account -> Security__
+2.__Go to: Settings -> Account -> Security__
 
 * Tweak the following settings:
 
@@ -36,7 +36,7 @@ These settings are a reasonable middle ground for reducing the amount of data th
 
   * Show Preview: OFF (unfortunately, this still displays the sender’s name)
   
-  ## Telegram
+## Telegram
 1. Enable 2-factor authentication:
 
 * Instructions: [How 2-step verification works](https://telegram.org/faq#q-how-does-2-step-verification-work){:target="_blank"}
