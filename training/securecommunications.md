@@ -41,7 +41,7 @@ Possible products to consider:
 1. [Proton Mail](https://protonmail.com/){:target="_blank"} - Even though its user interface is simple, streamlined and easy to use right out of the box, ProtonMail’s backend platform features a complex and seemingly impenetrable series of security measures. Because the decryption of messages sent and received through the ProtonMail service happen in the browser, ProtonMail’s own servers store only the encrypted version of its customers’ emails — and there is no key for decoding these messages on the servers, either. Also worth noting: ProtonMail allows customers to exchange secure email messages with any email address — not just other ProtonMail users. 
 ![Proton Mail](../images/protonmail.jpg)
 
-2. Tutanota -  is an end-to-end encrypted email software and freemium hosted secure email service. Its business model excludes earning money through advertisement relying solely on donations and Premium subscriptions. The motto of the service __"einfach.sicher.mailen"__ means __"easy.secure.mailing"__. Tutanota is undeniably one of the best and most secure mail  platforms currently. 
+2. [Tutanota]() -  is an end-to-end encrypted email software and freemium hosted secure email service. Its business model excludes earning money through advertisement relying solely on donations and Premium subscriptions. The motto of the service __"einfach.sicher.mailen"__ means __"easy.secure.mailing"__. Tutanota is undeniably one of the best and most secure mail  platforms currently. 
 
 ### For storage space
 __Common risks/recommendations for storage space solutions:__
@@ -78,4 +78,9 @@ Merely choosing a secure channel may not be enough to protect you. You’ll have
 ## Activity
 * Participants should share products they use to enhance their secure communications online. 
 * Participants should take their time to test some of these products and decide on which ones they will adopt. 
+* Watch the video below
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Z7H5tXqMGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Next > 
 
