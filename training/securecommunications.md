@@ -23,25 +23,30 @@ __Common risks/recommendations for messaging/chat services:__
 * Avoid using the messaging services through open networks, such as WiFis in cafes, airports and public places
 
 __Possible products to consider:__
-1. [Signal](https://signal.org/){:target="_blank"} - Signal is a pure-play text-messaging solution — and it’s often described as the most secure app of its kind. Signal’s messaging app uses end-to-end encryption. Additionally, Signal is also built on an open-source code base, which means its inner-workings are regularly peer reviewed and audited by coders — and that means its security protocols are generally up to date and state of the art. If you adopt Signal, make sure to always update the app when a new version is released, and if you are a heavy user, follow their developer change logs for updates.
-
 ![Signal](../images/signal.jpg)
 
-2. [Telegram](https://telegram.org/){:target="_blank"} - It’s a free app that offers end-to-end encryption and is thus secure.  What’s also great is that it has a self-destruct mode where you can set a timer to an individual message, and it automatically disappears. 
+1. [Signal](https://signal.org/){:target="_blank"} - Signal is a pure-play text-messaging solution — and it’s often described as the most secure app of its kind. Signal’s messaging app uses end-to-end encryption. Additionally, Signal is also built on an open-source code base, which means its inner-workings are regularly peer reviewed and audited by coders — and that means its security protocols are generally up to date and state of the art. If you adopt Signal, make sure to always update the app when a new version is released, and if you are a heavy user, follow their developer change logs for updates.
 
-> If you had to choose between Signal or Telegram, please always prioritize Signal over Telegram.
+1. [Telegram](https://telegram.org/){:target="_blank"} - It’s a free app that offers end-to-end encryption and is thus secure.  What’s also great is that it has a self-destruct mode where you can set a timer to an individual message, and it automatically disappears. 
+
+> If you had to choose between Signal or Telegram, always prioritize Signal.
 
 ### For Email:
 __Common risks/recommendations for email systems:__
 
 * Common threats for email security includes: malicious attachments, email interception, weak passwords, spamming, phishing/spear phishing. 
-* Some ways to manage these common problems include: no opening suspicious emails/links, take note of where you use your email address (i.e.: sign ups on websites), use more secure/stronger passwords, do not reply to SPAM
+* Some ways to manage these common problems include:
+ * no opening suspicious emails/links, 
+  *take note of where you use your email address (i.e. sign ups on websites),
+  *use more secure/stronger passwords, 
+  *__DO__ not reply to SPAM. 
 
 Possible products to consider:
-1. [Proton Mail](https://protonmail.com/){:target="_blank"} - Even though its user interface is simple, streamlined and easy to use right out of the box, ProtonMail’s backend platform features a complex and seemingly impenetrable series of security measures. Because the decryption of messages sent and received through the ProtonMail service happen in the browser, ProtonMail’s own servers store only the encrypted version of its customers’ emails — and there is no key for decoding these messages on the servers, either. Also worth noting: ProtonMail allows customers to exchange secure email messages with any email address — not just other ProtonMail users. 
 ![Proton Mail](../images/protonmail.jpg)
 
-2. [Tutanota]() -  is an end-to-end encrypted email software and freemium hosted secure email service. Its business model excludes earning money through advertisement relying solely on donations and Premium subscriptions. The motto of the service __"einfach.sicher.mailen"__ means __"easy.secure.mailing"__. Tutanota is undeniably one of the best and most secure mail  platforms currently. 
+1. [Proton Mail](https://protonmail.com/){:target="_blank"} - Even though its user interface is simple, streamlined and easy to use right out of the box, ProtonMail’s backend platform features a complex and seemingly impenetrable series of security measures. Because the decryption of messages sent and received through the ProtonMail service happen in the browser, ProtonMail’s own servers store only the encrypted version of its customers’ emails — and there is no key for decoding these messages on the servers, either. Also worth noting: ProtonMail allows customers to exchange secure email messages with any email address — not just other ProtonMail users. 
+
+2. [Tutanota](https://tutanota.com/){:target="_blank"} - is an end-to-end encrypted email software and freemium hosted secure email service. Its business model excludes earning money through advertisement relying solely on donations and Premium subscriptions. The motto of the service __"einfach.sicher.mailen"__ means __"easy.secure.mailing"__. Tutanota is undeniably one of the best and most secure mail  platforms currently. 
 
 ### For storage space
 __Common risks/recommendations for storage space solutions:__
@@ -69,11 +74,11 @@ __Possible products to consider:__
 
 ## Good practices for Secure Online Communications
 Merely choosing a secure channel may not be enough to protect you. You’ll have to follow these good practices if you want to ensure your communication is as secure as possible:
-1. Be choosy. There are hundreds, if not thousands, of apps out there advertising their “security,” but not all of them will offer you the same level of protection. Before you buy, download, or start using these apps, do your homework. Learn why they claim to be secure, read up on user reviews, and compare them to their competitors to make sure you’re using the best option.
-1. Use a VPN. A virtual private network (VPN) will give you a secure tunnel through which you can send and receive information online, as if you were operating using a private server.
-1. Avoid reliance on telecommunication. Phone calls and text messages may seem like the straightforward way to communicate, but any form of communication that relies on a cell tower is inherently unsecure. For this reason, it’s best to communicate when you’re connected to a secured Wi-Fi network, rather than using your 4G network—and that also means avoiding publicly accessible Wi-Fi networks, like those in coffee shops,school libraries or even coffee shops.
-1. Choose and rotate strong passwords. It’s a simple best practice, but one that you can’t afford to neglect; choose a strong password for your login, and create new passwords to replace it on a regular basis. Refer to our [Password Security Module](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity){:target="_blank"}
-1. Think carefully about what information you send. As an added layer of security, don’t send information unless you have to share it, or unless you’re perfectly comfortable with that information leaking. Even with the best security practices and apps in place, there’s no reason to make yourself vulnerable unless you have to.
+1. __Be choosy.__ There are hundreds, if not thousands, of apps out there advertising their “security,” but not all of them will offer you the same level of protection. Before you buy, download, or start using these apps, do your homework. Learn why they claim to be secure, read up on user reviews, and compare them to their competitors to make sure you’re using the best option.
+1. __Use a VPN.__ A virtual private network (VPN) will give you a secure tunnel through which you can send and receive information online, as if you were operating using a private server.
+1. __Avoid reliance on telecommunication.__ Phone calls and text messages may seem like the straightforward way to communicate, but any form of communication that relies on a cell tower is inherently unsecure. For this reason, it’s best to communicate when you’re connected to a secured Wi-Fi network, rather than using your 4G network—and that also means avoiding publicly accessible Wi-Fi networks, like those in coffee shops,school libraries or even coffee shops.
+1. __Choose and rotate strong passwords.__ It’s a simple best practice, but one that you can’t afford to neglect; choose a strong password for your login, and create new passwords to replace it on a regular basis. Refer to our [Password Security Module](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity){:target="_blank"}
+1. __Think carefully about what information you send.__ As an added layer of security, don’t send information unless you have to share it, or unless you’re perfectly comfortable with that information leaking. Even with the best security practices and apps in place, there’s no reason to make yourself vulnerable unless you have to.
 
 ## Activity
 * Participants should share products they use to enhance their secure communications online. 
