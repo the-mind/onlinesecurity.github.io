@@ -28,7 +28,7 @@ Cyber security is characterized by the CIA Triad:
 1. __Disaster Recovery and Business Continuity__ - define how an organization responds to a cyber-security incident or any other event that causes the loss of operations or data. Disaster recovery policies dictate how the organization restores its operations and information to return to the same operating capacity as before the event. Business continuity is the plan the organization falls back on while trying to operate without certain resources.
 1. __End-user Education__ - We started this training program to address the most unpredictable cyber-security factor: __people__. Anyone can accidentally introduce a virus to an otherwise secure system by failing to follow good security practices. Teaching users to delete suspicious email attachments, not plug in unidentified USB drives, and various other important lessons is vital for the security of any organization or individual. 
 
-## What is my role in Cybersecurity? 
+## What is your role in Cybersecurity? 
 It’s important to recognize the different types of risks that
 exist in the online world. When online,it's imperative to always keep this in mind: __Stop.
 Think. Connect.__ Stop for a moment. Think deeply about how you will
