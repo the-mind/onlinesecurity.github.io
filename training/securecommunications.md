@@ -89,5 +89,5 @@ Merely choosing a secure channel may not be enough to protect you. You’ll have
 
 {% include youtube.html id='4Z7H5tXqMGo' %}
 
-Next > 6.1 Securing Instant Messaging Apps
+Next > [6.1 Securing Instant Messaging Apps](https://the-mind.github.io/OnlineSecurity/training/secureim)
 
