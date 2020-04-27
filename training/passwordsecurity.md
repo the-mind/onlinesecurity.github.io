@@ -79,6 +79,7 @@ There are pros and cons to this method.
 
 ## Resources
 * [You need a password manager](https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046){:target="_blank"} 
+* [7 Password Experts on How to Lock Down Your Online Security](https://www.wired.com/2016/05/password-tips-experts/){:target="_blank"}
 
 Next > Secure Online Communications
 
