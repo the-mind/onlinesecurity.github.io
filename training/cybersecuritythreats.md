@@ -7,8 +7,8 @@ An __asset__ is anything tangible or intangible that holds value. Assets include
 
 
 > In a nutshell, an asset is what we’re trying to protect. 
-a threat is what we’re trying to protect against.
-a vulnerability is a weakness or gap in our protection efforts.
+A threat is what we’re trying to protect against.
+A vulnerability is a weakness or gap in our protection efforts.
 
 This section covers the most common cyber threats that affect organizations and individuals. The threats covered in this section:
 * Social engineering
