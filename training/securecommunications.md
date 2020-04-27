@@ -87,7 +87,7 @@ Merely choosing a secure channel may not be enough to protect you. You’ll have
 * Participants should take their time to test some of these products and decide on which ones they will adopt. 
 * Watch the video below
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Z7H5tXqMGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='4Z7H5tXqMGo' %}
 
 Next > 6.1 Securing Instant Messaging Apps
 
