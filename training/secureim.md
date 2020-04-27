@@ -96,6 +96,12 @@ Secret conversations are currently only available in the Messenger app on iOS an
 
 [More information on secret conversations](https://www.facebook.com/help/messenger-app/1084673321594605/){:target="_blank"}
 
+## Attribution 
+
+This guide is adapted from [Access Now Digital Security Helpline End-User Guides](https://guides.accessnow.org/index.html), available [here](https://guides.accessnow.org/IM_Tips.html#telegram). 
+
+
+
 
 
 
