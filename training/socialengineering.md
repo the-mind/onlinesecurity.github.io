@@ -19,7 +19,9 @@ Attackers also take advantage of current events and certain times of the year. T
 
 #### Examples of Phishing Scams
 * An employee can receive an email that looks to be from Facebook, alerting them to change their passwords. The email also contains a link to almost a replica of Facebook’s login page. Upon clicking and inputting their username and password, these credentials are sent to the attacker. 
-* An instance of smishing is when people send crafted MPESA messages. The attacker then proceeds to call and create a sense of urgency, deceiving the target to send money to the attacker. 
+* An instance of smishing is when people send crafted MPESA messages. The attacker then proceeds to call and create a sense of urgency, deceiving the target to send money to the attacker.
+
+![Phishing stats](../images/phishingscam.png)
 
 ### 2. Spear Phishing
 Spear phishing is a __targeted form__ of phishing. It targets specific individuals, or organization. These scams are usually tailored to fit the target’s characteristics such as job position and contacts. This makes it less conspicuous. Therefore, spear phishing has a higher success rate but takes longer to plan and execute. 
@@ -68,7 +70,9 @@ Participants should watch the following videos:
 
 <br/>
 
-Participants will also be taken through practical identification of phishing emails during the online session. 
+Participants will also be taken through practical identification of phishing emails during the online session. Image used for the session. 
+
+![Phishing prevention meme](../images/phishingbreakdown.png)
 
 Next > [3.2 Malware](https://the-mind.github.io/OnlineSecurity/training/malware)
 
