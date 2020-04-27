@@ -62,11 +62,10 @@ Malware will __“read”__ an infected user’s email list and replicate itself
 ## Activity 
 Participants should watch the following videos:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lc7scxvKQOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+{% include youtube.html id='lc7scxvKQOo' %}
 
 <br/>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PWVN3Rq4gzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include youtube.html id='PWVN3Rq4gzw' %}
 
