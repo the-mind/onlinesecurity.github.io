@@ -50,7 +50,7 @@ Possible products to consider:
 
 2. [Tutanota](https://tutanota.com/){:target="_blank"} - is an end-to-end encrypted email software and freemium hosted secure email service. Its business model excludes earning money through advertisement relying solely on donations and Premium subscriptions. The motto of the service __"einfach.sicher.mailen"__ means __"easy.secure.mailing"__. Tutanota is undeniably one of the best and most secure mail  platforms currently. 
 
-### For storage space
+### For storage space:
 __Common risks/recommendations for storage space solutions:__
 
 * Common threats to storage services are user error and insider activity. This can be costly. 
