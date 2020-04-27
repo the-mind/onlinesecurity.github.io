@@ -1,3 +1,16 @@
+# Table of Contents
+
+1. [Introduction](https://the-mind.github.io/OnlineSecurity/)
+1. [Introduction to Cybersecurity](https://the-mind.github.io/OnlineSecurity/training/introduction)
+1. [Cybersecurity Threats](https://the-mind.github.io/OnlineSecurity/training/cybersecuritythreats)
+    * [3.1 Social Engineering](https://the-mind.github.io/OnlineSecurity/training/socialengineering)
+    * [3.2 Malware](https://the-mind.github.io/OnlineSecurity/training/malware)
+    * [3.3 Malicious Websites](https://the-mind.github.io/OnlineSecurity/training/maliciouswebsites)
+1. [Personal Security](https://the-mind.github.io/OnlineSecurity/training/personalsecurity)
+1. [Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity)
+1. [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications)
+    * [6.1 Secure your Instant Messaging Apps](https://the-mind.github.io/OnlineSecurity/training/secureim) 
+    
 # 1. Introduction
 
 Welcome to the Accessible Online Security Program -  a training and mentorship program aimed at imparting knowledge and practical skills on Online Security and Digital Privacy. With the increased migration of operations online i.e business, education and e-commerce, there is a dire need to ensure everyone keeps their information(especially their digital data) safe. This program aims at raising awareness on Online Security and nurturing the next generation of Digital Safety champions. Over a period of 14 weeks, starting from April 8th 2020, this program will focus on the following key main areas as our pillars:
@@ -51,5 +64,5 @@ It's crucial to have people in the movement who are onboarding others in a way t
 
 This training and mentoring program would not be possible without funding from our Sponsor [e.KRAAL Innovation Hub](https://e-kraal.com/){:target="_blank"} , our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs){:target="_blank"} & [Chad Sansing](https://twitter.com/chadsansing){:target="_blank"}  and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code){:target="_blank"} . 
 
-__Next__ > [1.1 Table of Contents](https://the-mind.github.io/OnlineSecurity/training/tableofcontents) 
+__Next__ > [2. Introduction to Cybersecurity](https://the-mind.github.io/OnlineSecurity/training/introduction) 
 
