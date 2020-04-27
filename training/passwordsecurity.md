@@ -75,7 +75,7 @@ There are pros and cons to this method.
 ## Activity 
 
 * Take participants through identification of weak and strong passwords.
-* [Participants to set up their own password vaukt using Docker ](https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046){:target="_blank"}
+* [Participants to set up their own password vault using Docker ](https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046){:target="_blank"}
 
 ## Resources
 * [You need a password manager](https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046){:target="_blank"} 
