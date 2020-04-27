@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 
 1. [Introduction](https://the-mind.github.io/OnlineSecurity/)
 1. [Introduction to Cybersecurity](https://the-mind.github.io/OnlineSecurity/training/introduction)
