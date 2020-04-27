@@ -11,6 +11,10 @@ A malicious website is a site that attempts to install malware onto your device.
 
 What’s more, malicious websites often look like legitimate websites. Sometimes they will ask you to install software that your computer appears to need. Similarly, the website might ask for permission to install one program, but install a completely different one -- one that you definitely do not want on your computer.
 
+__Legitimate websites can be malicious too if compromised__
+
+![Sample malicious website](../images/maliciouswebsite.png)
+
 ## What is a drive-by download ? 
 Drive-by downloads are even scarier than a malicious website, though the two sometimes overlap. Drive-by downloads can be installed on your computer simply by looking at an email, browsing a website or clicking on a pop-up window with text designed to mislead you, such as a false error message. 
 
