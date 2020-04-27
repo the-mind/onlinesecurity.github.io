@@ -23,6 +23,7 @@ __Common risks/recommendations for messaging/chat services:__
 * Avoid using the messaging services through open networks, such as WiFis in cafes, airports and public places
 
 __Possible products to consider:__
+
 ![Signal](../images/signal.jpg)
 
 1. [Signal](https://signal.org/){:target="_blank"} - Signal is a pure-play text-messaging solution — and it’s often described as the most secure app of its kind. Signal’s messaging app uses end-to-end encryption. Additionally, Signal is also built on an open-source code base, which means its inner-workings are regularly peer reviewed and audited by coders — and that means its security protocols are generally up to date and state of the art. If you adopt Signal, make sure to always update the app when a new version is released, and if you are a heavy user, follow their developer change logs for updates.
@@ -42,6 +43,7 @@ __Common risks/recommendations for email systems:__
   *__DO__ not reply to SPAM. 
 
 Possible products to consider:
+
 ![Proton Mail](../images/protonmail.jpg)
 
 1. [Proton Mail](https://protonmail.com/){:target="_blank"} - Even though its user interface is simple, streamlined and easy to use right out of the box, ProtonMail’s backend platform features a complex and seemingly impenetrable series of security measures. Because the decryption of messages sent and received through the ProtonMail service happen in the browser, ProtonMail’s own servers store only the encrypted version of its customers’ emails — and there is no key for decoding these messages on the servers, either. Also worth noting: ProtonMail allows customers to exchange secure email messages with any email address — not just other ProtonMail users. 
