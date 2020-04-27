@@ -17,7 +17,7 @@ Attackers also take advantage of current events and certain times of the year. T
 *	Major political elections
 *	Holidays
 
-Examples of Phishing Scams
+#### Examples of Phishing Scams
 * An employee can receive an email that looks to be from Facebook, alerting them to change their passwords. The email also contains a link to almost a replica of Facebook’s login page. Upon clicking and inputting their username and password, these credentials are sent to the attacker. 
 * An instance of smishing is when people send crafted MPESA messages. The attacker then proceeds to call and create a sense of urgency, deceiving the target to send money to the attacker. 
 
@@ -39,8 +39,6 @@ Quid pro quo attacks promise a benefit in exchange for information.
 
 ## Prevention of Social Engineering
 
-![Phishing prevention meme](../images/phishingmeme.jpeg)
-
 1. __Multi Factor Authentication(MFA)__ - Most attackers are after user credentials, therefore, multi factor authentication protects your accounts in the event of compromise. We'll cover MFA at a later time in depth. 
 2. __Install Anti Malware Software__ - Anti-malware software will detect and protect your machine from malicious attachments that contain malware.
 3. __Email Security__ - Email is currently the most common way cyber criminals launch and distribute threats. The level of sophistication of email attacks has increased over the past few years. It’s very vital to protect against phony emails. 
@@ -50,6 +48,7 @@ Links in the emails may redirect to sites that seem legitimate but are used for 
 
 Malware will __“read”__ an infected user’s email list and replicate itself to other users. Just because an email indicates it originates with trusted source doesn’t mean that is actually true.
 
+![Phishing prevention meme](../images/phishingmeme.jpeg)
 
 ## What to do 
 * __DO__ not click links in messages (especially from senders you don’t know).
