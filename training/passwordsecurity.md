@@ -1,3 +1,16 @@
+## Table of Contents
+
+1. [Introduction](https://the-mind.github.io/OnlineSecurity/)
+1. [Introduction to Cybersecurity](https://the-mind.github.io/OnlineSecurity/training/introduction)
+1. [Cybersecurity Threats](https://the-mind.github.io/OnlineSecurity/training/cybersecuritythreats)
+    * [3.1 Social Engineering](https://the-mind.github.io/OnlineSecurity/training/socialengineering)
+    * [3.2 Malware](https://the-mind.github.io/OnlineSecurity/training/malware)
+    * [3.3 Malicious Websites](https://the-mind.github.io/OnlineSecurity/training/maliciouswebsites)
+1. [Personal Security](https://the-mind.github.io/OnlineSecurity/training/personalsecurity)
+1. [Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity)
+1. [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications)
+    * [6.1 Secure your Instant Messaging Apps](https://the-mind.github.io/OnlineSecurity/training/secureim) 
+    
 # 5. Password Security 
 
 Passwords are used to log into most systems and applications. With increasing number of online accounts, people have a tendency to use simple and easy to remember passwords that are shared among these sites. For instance, you will find someone using the same password for both gmail and facebook. 
@@ -81,7 +94,7 @@ There are pros and cons to this method.
 * [You need a password manager](https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046){:target="_blank"} 
 * [7 Password Experts on How to Lock Down Your Online Security](https://www.wired.com/2016/05/password-tips-experts/){:target="_blank"}
 
-Next > [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications)
+Next > [6. Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications)
 
  
 
