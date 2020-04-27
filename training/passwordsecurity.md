@@ -45,6 +45,7 @@ Strong passwords are hard to guess. Characteristics of a strong password include
 
 > Avoid the use of predictable passwords such as your name, date of birth, pet’s names etc. Through social media, attackers can collect this kind of information and thus make it easier for them to compromise your password and access your accounts. 
 
+
 ![passwordmeme](../images/passwordjoke.png)
 
 ## How to make your passwords secure
@@ -55,7 +56,7 @@ Strong passwords are hard to guess. Characteristics of a strong password include
 1. Avoid entering passwords on computers you don’t control (like computers at an Internet café or library)—they may have malware that steals your passwords.
 1. Avoid entering passwords when using open/unsecured Wi-Fi connections (like at the airport or coffee shop)—hackers can intercept your passwords and data over this unsecured connection.
 1. Use comprehensive security software and keep it up to date to avoid keyloggers (keystroke loggers) and other malware.
-1. 3.	Separate personal from work. Use separate passwords for personal and work accounts. In case attackers compromise your personal accounts, your work accounts will be safe. 
+1. Separate personal from work. Use separate passwords for personal and work accounts. In case attackers compromise your personal accounts, your work accounts will be safe. 
 1. Depending on the sensitivity of the information being protected, you should change your passwords periodically, and avoid reusing a password for at least six months.
 1. Don’t tell anyone your password. Your trusted friend now might not be your friend in the future. Keep your passwords safe by keeping them to yourself.
 1. Do use at least eight characters of lowercase and uppercase letters, numbers, and symbols in your password. Remember, the more the merrier.
