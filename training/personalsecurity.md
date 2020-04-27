@@ -1,4 +1,4 @@
-# Personal Security
+# 4. Personal Security
 
 Kenyans were ranked the most care-free users of the Internet globally. Only four in every 10 internet users in Kenya are concerned about their privacy online, according to a report by the United Nations Conference on Trade and Development (UNCTAD) released on September 2019. Read the [official report by UNCTAD here](https://unctad.org/en/PublicationsLibrary/der2019_en.pdf){:target="_blank"} and the [press release from NMG here.](https://www.nation.co.ke/news/Kenyans-the-most-carefree-users-of-internet/1056-5261054-1b6rqjz/index.html){:target="_blank"}
 
@@ -70,6 +70,6 @@ These tips will help you stay safe online while telecommuting normally or during
 * Disable your Wi-Fi at night to prevent cyberattacks. 
 * Swicth off borh your VPN and your computer at the end of the day to enable system updates. 
 
- Next > Password Security 
+ Next > [Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity) 
 
 
