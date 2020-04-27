@@ -11,9 +11,9 @@ A threat is what we’re trying to protect against.
 A vulnerability is a weakness or gap in our protection efforts.
 
 This section covers the most common cyber threats that affect organizations and individuals. The threats covered in this section:
-* Social engineering
-* Malware
-* Malicious websites
+* __Social engineering__
+* __Malware__
+* __Malicious websites__
 
 __Next__ > [3.1 Social Engineering](https://the-mind.github.io/OnlineSecurity/training/socialengineering)
 
