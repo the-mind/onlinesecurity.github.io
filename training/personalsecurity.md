@@ -1,8 +1,6 @@
 # Personal Security
 
-## Personal Security - Protecting yourself and your Information
-
-Kenyans were ranked the most care-free users of the Internet globally. Only four in every 10 internet users in Kenya are concerned about their privacy online, according to a report by the United Nations Conference on Trade and Development (UNCTAD) released on September 2019.
+Kenyans were ranked the most care-free users of the Internet globally. Only four in every 10 internet users in Kenya are concerned about their privacy online, according to a report by the United Nations Conference on Trade and Development (UNCTAD) released on September 2019. Read the [official report by UNCTAD here](https://unctad.org/en/PublicationsLibrary/der2019_en.pdf){:target="_blank"} and the [press release from NMG here.](https://www.nation.co.ke/news/Kenyans-the-most-carefree-users-of-internet/1056-5261054-1b6rqjz/index.html){:target="_blank"}
 
 This is the lowest level in the world according to the report and ranks poorly against the global average of eight in every 10 users. This clearly indicates that there’s a lot of work that needs to be done to ensure Kenyans protect their data and Personally Identifiable Information to the best of their abilities. 
 
@@ -58,12 +56,12 @@ These tips will help you stay safe online while telecommuting normally or during
 * Don't open attachments or click on fishy links. 
 
 ### 6. Be careful with social media
-* Social Networks can be vulnerable t cyber threats; avoid using social media on business devices. 
+* Social Networks can be vulnerable to cyber threats; avoid using social media on business devices. 
 * Ensure antivirus solutions are installed and up t date. 
 
 ### 7. Use secured platforms 
 * Switch to secure authentication services and Virtual Private Networks (VPNS) to send sensitive information.
-* Use "hacker-proof" remote collaboration tools. 
+* Use "hacker-proof" remote collaboration tools like Wire & Microsoft Teams. 
 
 ### 8. Go offline 
 * Disable your Wi-Fi at night to prevent cyberattacks. 
