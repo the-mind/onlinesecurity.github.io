@@ -1,4 +1,4 @@
-# Cybersecurity Threats
+# 3. Cybersecurity Threats
 Cyber criminals usually exploit __vulnerabilities__ to attack networks and systems. 
 
 __Vulnerabilities__ are weaknesses or gaps in a security program that can be exploited by __threats__ to gain unauthorized access to an __asset.__ <br/> 
@@ -15,5 +15,5 @@ This section covers the most common cyber threats that affect organizations and 
 * Malware
 * Malicious websites
 
-__Next__ > [2.1 Social Engineering](https://the-mind.github.io/OnlineSecurity/training/socialengineering)
+__Next__ > [3.1 Social Engineering](https://the-mind.github.io/OnlineSecurity/training/socialengineering)
 
