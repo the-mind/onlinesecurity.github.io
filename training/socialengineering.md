@@ -1,4 +1,4 @@
-# Social Engineering
+# 3.1 Social Engineering
 Social engineering is a technique that uses psychological manipulation to trick users into making security mistakes or giving away sensitive information. This is one of the greatest threats to cybersecurity today because it takes advantage of people’s trusting nature hence it is less predictable and harder to detect and respond to. 
 
 Ideally, an attacker gathers information about a user and uses it to establish trust. Once trust is established, the attacker gets the targeted information without raising suspicion. 
