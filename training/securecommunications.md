@@ -17,10 +17,65 @@ __NOTE:__ As you explore the tools, please keep these points in your mind.
 
 ## Communication Tool recommendations
 ### For a messaging/chat service:
-Common risks/recommendations for messaging/chat services:
+__Common risks/recommendations for messaging/chat services:__
 
 * Most messaging services lack encryption – pick an app that offers end-to-end encryption
 * Avoid using the messaging services through open networks, such as WiFis in cafes, airports and public places
 
+__Possible products to consider:__
+1. [Signal](https://signal.org/){:target="_blank"} - Signal is a pure-play text-messaging solution — and it’s often described as the most secure app of its kind. Signal’s messaging app uses end-to-end encryption. Additionally, Signal is also built on an open-source code base, which means its inner-workings are regularly peer reviewed and audited by coders — and that means its security protocols are generally up to date and state of the art. If you adopt Signal, make sure to always update the app when a new version is released, and if you are a heavy user, follow their developer change logs for updates.
+
+![Signal](../images/signal.jpg)
+
+2. [Telegram](https://telegram.org/){:target="_blank"} - It’s a free app that offers end-to-end encryption and is thus secure.  What’s also great is that it has a self-destruct mode where you can set a timer to an individual message, and it automatically disappears. 
+
+> If you had to choose between Signal or Telegram, please always prioritize Signal over Telegram.
+
+### For Email:
+__Common risks/recommendations for email systems:__
+
+* Common threats for email security includes: malicious attachments, email interception, weak passwords, spamming, phishing/spear phishing. 
+* Some ways to manage these common problems include: no opening suspicious emails/links, take note of where you use your email address (i.e.: sign ups on websites), use more secure/stronger passwords, do not reply to SPAM
+
 Possible products to consider:
+1. [Proton Mail](https://protonmail.com/){:target="_blank"} - Even though its user interface is simple, streamlined and easy to use right out of the box, ProtonMail’s backend platform features a complex and seemingly impenetrable series of security measures. Because the decryption of messages sent and received through the ProtonMail service happen in the browser, ProtonMail’s own servers store only the encrypted version of its customers’ emails — and there is no key for decoding these messages on the servers, either. Also worth noting: ProtonMail allows customers to exchange secure email messages with any email address — not just other ProtonMail users. 
+![Proton Mail](../images/protonmail.jpg)
+
+2. Tutanota -  is an end-to-end encrypted email software and freemium hosted secure email service. Its business model excludes earning money through advertisement relying solely on donations and Premium subscriptions. The motto of the service __"einfach.sicher.mailen"__ means __"easy.secure.mailing"__. Tutanota is undeniably one of the best and most secure mail  platforms currently. 
+
+### For storage space
+__Common risks/recommendations for storage space solutions:__
+
+* Common threats to storage services are user error and insider activity. This can be costly. 
+* Possible threats include compromised credentials (usernames, passwords), lack of encryption, and the more users who use a certain storage stage = the higher the possibility to attract more hackers. 
+* To counter these risks, consider:
+  * creating stronger passwords, 
+  * consistently auditing all connected devices and watch out for any suspicious ones, 
+  * spread sensitive data between different storage spaces 
+  * always review of what is being shared.
+  
+__Possible products to consider:__
+
+1. If you already use a certain cloud-based storage space (such as Dropbox, Microsoft OneDrive, Google Drive, etc.), which are not entirely secure, you can add an extra layer of protection. Such as:
+* Use a two-step authentication process
+* Add a third party encryption (such as [Boxcryptor](https://www.boxcryptor.com/en/){:target="_blank"}, which encrypts data on devices before they are synchronized to the cloud)
+2. [Spideroak](https://spideroak.com/){:target="_blank"} is an increased security cloud-based storage service. It offers up to 2GB of free trial for 60 days (after that, it’s $7/month for 30 GB or $12/month for 1 TB), has zero knowledge encryption (means your data is 100% private and only readable by you), does not store users’ passwords nor encryption keys; storage redundancy savings, and syncs across all devices. 
+
+### For videoconferencing:
+
+1. [Wire](https://app.wire.com/){:target="_blank"} - Business/Personal chats, one-click conference calls and shared documents – all protected with end-to-end encryption. It's not only secure but open source too. 
+
+>  All of these tools have been around for at least 5 years, which is a good sign. It means that the products are well vetted and well-funded. Often you read and hear about new apps or solutions created by startups, but they do not stick around for various reasons. As you come across new technologies, be mindful that one of the key factors to consider is whether the app itself will be around for longer than a year. Play around with the suggested tools above, and see what works best for your specific program, team, or organization. 
+
+## Good practices for Secure Online Communications
+Merely choosing a secure channel may not be enough to protect you. You’ll have to follow these good practices if you want to ensure your communication is as secure as possible:
+1. Be choosy. There are hundreds, if not thousands, of apps out there advertising their “security,” but not all of them will offer you the same level of protection. Before you buy, download, or start using these apps, do your homework. Learn why they claim to be secure, read up on user reviews, and compare them to their competitors to make sure you’re using the best option.
+1. Use a VPN. A virtual private network (VPN) will give you a secure tunnel through which you can send and receive information online, as if you were operating using a private server.
+1. Avoid reliance on telecommunication. Phone calls and text messages may seem like the straightforward way to communicate, but any form of communication that relies on a cell tower is inherently unsecure. For this reason, it’s best to communicate when you’re connected to a secured Wi-Fi network, rather than using your 4G network—and that also means avoiding publicly accessible Wi-Fi networks, like those in coffee shops,school libraries or even coffee shops.
+1. Choose and rotate strong passwords. It’s a simple best practice, but one that you can’t afford to neglect; choose a strong password for your login, and create new passwords to replace it on a regular basis. Refer to our [Password Security Module](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity){:target="_blank"}
+1. Think carefully about what information you send. As an added layer of security, don’t send information unless you have to share it, or unless you’re perfectly comfortable with that information leaking. Even with the best security practices and apps in place, there’s no reason to make yourself vulnerable unless you have to.
+
+## Activity
+* Participants should share products they use to enhance their secure communications online. 
+* Participants should take their time to test some of these products and decide on which ones they will adopt. 
 
