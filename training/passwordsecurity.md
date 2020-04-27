@@ -61,7 +61,7 @@ There are pros and cons to this method.
 1. Using the same credentials for each account is dangerous as it creates one point of failure.
 1. Good password managers encrypt all your personal data in case someone hacks the PM software directly; the hacker might get your passwords but they won’t know who the passwords belong to.
 1. Password Managers can keep you up to date with the latest breaches and advise you if any accounts may have been affected/hacked. 
-1. Can use offline password manager (not stored on the web/not a web browser plugin like [KeePass](https://keepass.info/)
+1. Can use offline password manager (not stored on the web/not a web browser plugin like [KeePass](https://keepass.info/){:target="_blank"}
 
 ### Cons
 1. Single point of failure - if someone gets hold of your master password, they have all your passwords.
