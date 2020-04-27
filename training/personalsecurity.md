@@ -19,6 +19,8 @@ This refers to any information that can lead to locating and contacting an indiv
 *	KRA Pin 
 * NHIF and NSSF Number
 
+![Personally Identifiable Information](../images/pii.png)
+
 ## What you can do 
 * Don’t respond to unsolicited requests for personal information by phone, mail or online.
 * Adopt a __clean desk policy__ - Not leaving passwords on pieces of paper on one’s desk and other valuable information.
