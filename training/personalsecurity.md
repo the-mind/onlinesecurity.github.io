@@ -17,7 +17,8 @@ This refers to any information that can lead to locating and contacting an indiv
 * Vehicle registration number
 * Biometrics
 *	KRA Pin 
-* NHIF and NSSF Number
+* NHIF(National Hospital Insurance Fund) Number
+* NSSF(National Social Secuity Fund) Number
 
 ![Personally Identifiable Information](../images/pii.png)
 
@@ -69,6 +70,6 @@ These tips will help you stay safe online while telecommuting normally or during
 * Disable your Wi-Fi at night to prevent cyberattacks. 
 * Swicth off borh your VPN and your computer at the end of the day to enable system updates. 
 
- Next > Password Policies 
+ Next > Password Security 
 
 
