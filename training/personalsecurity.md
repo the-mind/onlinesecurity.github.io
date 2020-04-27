@@ -1,3 +1,16 @@
+## Table of Contents
+
+1. [Introduction](https://the-mind.github.io/OnlineSecurity/)
+1. [Introduction to Cybersecurity](https://the-mind.github.io/OnlineSecurity/training/introduction)
+1. [Cybersecurity Threats](https://the-mind.github.io/OnlineSecurity/training/cybersecuritythreats)
+    * [3.1 Social Engineering](https://the-mind.github.io/OnlineSecurity/training/socialengineering)
+    * [3.2 Malware](https://the-mind.github.io/OnlineSecurity/training/malware)
+    * [3.3 Malicious Websites](https://the-mind.github.io/OnlineSecurity/training/maliciouswebsites)
+1. [Personal Security](https://the-mind.github.io/OnlineSecurity/training/personalsecurity)
+1. [Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity)
+1. [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications)
+    * [6.1 Secure your Instant Messaging Apps](https://the-mind.github.io/OnlineSecurity/training/secureim) 
+    
 # 4. Personal Security
 
 Kenyans were ranked the most care-free users of the Internet globally. Only four in every 10 internet users in Kenya are concerned about their privacy online, according to a report by the United Nations Conference on Trade and Development (UNCTAD) released on September 2019. Read the [official report by UNCTAD here](https://unctad.org/en/PublicationsLibrary/der2019_en.pdf){:target="_blank"} and the [press release from NMG here.](https://www.nation.co.ke/news/Kenyans-the-most-carefree-users-of-internet/1056-5261054-1b6rqjz/index.html){:target="_blank"}
@@ -70,6 +83,6 @@ These tips will help you stay safe online while telecommuting normally or during
 * Disable your Wi-Fi at night to prevent cyberattacks. 
 * Swicth off borh your VPN and your computer at the end of the day to enable system updates. 
 
- Next > [Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity) 
+ Next > [5. Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity) 
 
 
