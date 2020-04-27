@@ -89,5 +89,5 @@ Merely choosing a secure channel may not be enough to protect you. You’ll have
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Z7H5tXqMGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Next > 
+Next > 6.1 Securing Instant Messaging Apps
 
