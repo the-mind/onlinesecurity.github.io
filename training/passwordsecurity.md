@@ -48,6 +48,8 @@ Strong passwords are hard to guess. Characteristics of a strong password include
 > It's important to always use __Multi Factor Authentication(MFA)__ on all of your accounts. MFA is a method to double check whether it is you trying to access the account. Other than the password or passcode, another factor such as a security token or a smartphone can be used to validate that you are who you say you are online. An example is when you log into gmail and a verification code is sent to your mobile phone
 
 ## Password managers 
+![Some good password managers](../images/passwordmanagers.png)
+
 You can use a password manager like to store your passwords for you. The major browsers all have password storage systems, while cloud options like [LastPass](https://www.lastpass.com/) work from any computer with internet access.
 
 There are pros and cons to this method. 
@@ -70,7 +72,11 @@ There are pros and cons to this method.
 
 ## Activity 
 
-Take participants through identification of weak and strong passwords. 
+* Take participants through identification of weak and strong passwords.
+* [Participants to set up their own password vaukt using Docker ](https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046){:target="_blank"}
+
+## Resources
+* [You need a password manager](https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046){:target="_blank"} 
 
 Next > Secure Online Communications
 
