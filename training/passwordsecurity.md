@@ -45,6 +45,7 @@ Strong passwords are hard to guess. Characteristics of a strong password include
 
 > Avoid the use of predictable passwords such as your name, date of birth, pet’s names etc. Through social media, attackers can collect this kind of information and thus make it easier for them to compromise your password and access your accounts. 
 
+![passwordmeme](../images/passwordjoke.png)
 
 ## How to make your passwords secure
 1. Make sure you use different passwords for each of your accounts.
@@ -60,7 +61,7 @@ Strong passwords are hard to guess. Characteristics of a strong password include
 1. Do use at least eight characters of lowercase and uppercase letters, numbers, and symbols in your password. Remember, the more the merrier.
 1. Don't bunch up your special characters. Put your digits, symbols, and capital letters spread throughout the middle of your password, not just at the beginning or end. 
 
-> It's important to always use __Multi Factor Authentication(MFA)__ on all of your accounts. MFA is a method to double check whether it is you trying to access the account. Other than the password or passcode, another factor such as a security token or a smartphone can be used to validate that you are who you say you are online. An example is when you log into gmail and a verification code is sent to your mobile phone
+> It's important to always use __Multi Factor Authentication(MFA)__ on all of your accounts. MFA is a method to double check whether it is you trying to access the account. Other than the password or passcode, another factor such as a security token or a smartphone can be used to validate that you are who you say you are online. An example is when you log into gmail and a verification code is sent to your mobile phone. 
 
 ## Password managers 
 ![Some good password managers](../images/passwordmanagers.png)
