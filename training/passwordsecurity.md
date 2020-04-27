@@ -47,11 +47,32 @@ Strong passwords are hard to guess. Characteristics of a strong password include
 
 > It's important to always use __Multi Factor Authentication(MFA)__ on all of your accounts. MFA is a method to double check whether it is you trying to access the account. Other than the password or passcode, another factor such as a security token or a smartphone can be used to validate that you are who you say you are online. An example is when you log into gmail and a verification code is sent to your mobile phone
 
+## Password managers 
+You can use a password manager like to store your passwords for you. The major browsers all have password storage systems, while cloud options like [LastPass](https://www.lastpass.com/) work from any computer with internet access.
+
+There are pros and cons to this method. 
+
+### Pros
+1. Humans can be unreliable as they can come up with bad/weak passwords, forget their password, or are genuinely disinterested in their own security. With a Password Manager there is no need to worry about remembering all your different passwords.
+1. Using the same credentials for each account is dangerous as it creates one point of failure.
+1. Good password managers encrypt all your personal data in case someone hacks the PM software directly; the hacker might get your passwords but they won’t know who the passwords belong to.
+1. Password Managers can keep you up to date with the latest breaches and advise you if any accounts may have been affected/hacked. 
+1. Can use offline password manager (not stored on the web/not a web browser plugin like [KeePass](https://keepass.info/)
+
+### Cons
+1. Single point of failure - if someone gets hold of your master password, they have all your passwords.
+1. Password manager programs are a target for hackers.
+1. It's not easy to login using multiple devices.
+1. If the main password is used/typed/saved on a computer with malware, your main password can compromise all your other passwords controlled by the Password Manager - all your passwords are only as secure as your master password.
+1. Not all PM's are adequately encrypted which can render the whole process of setting one up useless.
+
+> Perhaps the simplest advice we can give, is to have __Two Factor Authentication(2FA)__ when possible. Two factor authentication is a two step verification that along with your password and username, requires another level of authentication. Hence, if someone gets hold of your password, they won't be able to proceed without entering the next level of authentication.
+
 ## Activity 
 
 Take participants through identification of weak and strong passwords. 
 
-Next > 
+Next > Secure Online Communications
 
  
 
