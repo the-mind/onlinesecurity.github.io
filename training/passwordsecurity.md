@@ -29,7 +29,7 @@ Cyber attackers will try common password phrases in an attempt to crack your pas
 1. __Data breaches__ - Using the passwords leaked from data breaches to attack other systems. 
 1. __Stealing passwords__ - Insecurely stored passwords can be stolen, such as ones written on sticky notes and kept near(or on) devices.
 1. __Stolen hashes__ - Stolen hash files can be broken to recover the original passwords. 
-1. __Password spraying__ - Trying a commonly-used passwords to access a large number of accounts. 
+1. __Password spraying__ - Trying commonly-used passwords to access a large number of accounts. 
 
 Passwords can only do so much. Even when implemented correctly, passwords are limited in helping prevent unauthorized access.
 If an attacker discovers or guesses the password, they are able to impersonate a user.
