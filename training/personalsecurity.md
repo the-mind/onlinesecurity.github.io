@@ -26,7 +26,7 @@ This refers to any information that can lead to locating and contacting an indiv
 * Bank account numbers
 * Phone number
 * Home address 
-* Driving License
+* Driving License Number
 * Vehicle registration number
 * Biometrics
 *	KRA Pin 
@@ -73,14 +73,14 @@ These tips will help you stay safe online while telecommuting normally or during
 
 ### 6. Be careful with social media
 * Social Networks can be vulnerable to cyber threats; avoid using social media on business devices. 
-* Ensure antivirus solutions are installed and up t date. 
+* Ensure antivirus solutions are installed and up to date. 
 
 ### 7. Use secured platforms 
 * Switch to secure authentication services and Virtual Private Networks (VPNS) to send sensitive information.
 * Use "hacker-proof" remote collaboration tools such as Wire. See the [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications) module for more secure tool recommendations. 
 
 ### 8. Go offline 
-* Disable your Wi-Fi at night to prevent cyberattacks. 
+* Disable your Wi-Fi at night/when not in use to prevent cyberattacks. 
 * Switch off both your VPN and your computer at the end of the day to enable system updates. 
 
  Next > [5. Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity) 
