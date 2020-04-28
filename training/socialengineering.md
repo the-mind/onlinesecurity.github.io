@@ -47,7 +47,7 @@ Attackers can also leave infected USB flash drive  with tags such as â€˜payrollâ
 ### 4. Pretexting
 In this technique, an attacker uses __crafted lies__ to steal information. The attacker pretends to be from a trusted authority such as banks or police, so as to build trust.
 
-For instance, in the Kenyan context, an attacker may impersonate a Safaricom customer care representative and ask the victim to reveal private information such as ID number, MPESA Pin etc.
+For instance, in the Kenyan context, an attacker may impersonate a Safaricom customer care representative and ask the victim to reveal private information such as ID number, MPESA PIN etc.
 
 ### 5. Quid pro quo 
 Quid pro quo attacks promise a benefit in exchange for information. 
