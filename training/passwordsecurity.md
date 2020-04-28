@@ -39,7 +39,7 @@ If an attacker discovers or guesses the password, they are able to impersonate a
 ![What makes a password strong](../images/complexpassword.jpg)
 
 Strong passwords are hard to guess. Characteristics of a strong password include:
-1. At least 8 characters—the more characters, the better
+1. At least 12 characters—the more characters, the better
 1. A mixture of both uppercase and lowercase letters
 1. A mixture of letters and numbers
 1. Inclusion of at least one special character, e.g., ! @ # ? ]
