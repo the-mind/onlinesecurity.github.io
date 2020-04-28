@@ -24,11 +24,11 @@ Phishing is one of the most popular social engineering techniques. It involves s
 
 Phishing done via text messages is known as __smishing__ while phishing done via phone calls is known as __vishing__. Vishing can be combined with other forms of social engineering
 Attackers also take advantage of current events and certain times of the year. These include: 
-* Natural disasters (e.g., Hurricane Katrina, Indonesian tsunami)
+* Natural disasters (e.g. Hurricane Katrina, Indonesian tsunami)
 * Epidemics and health scares (e.g. Covid-19, H1N1)
-*	Economic concerns (e.g., IRS scams)
+*	Economic concerns (e.g. KRA scams)
 *	Major political elections
-*	Holidays
+*	Holidays 
 
 #### Examples of Phishing Scams
 * An employee can receive an email that looks to be from Facebook, alerting them to change their passwords. The email also contains a link to almost a replica of Facebook’s login page. Upon clicking and inputting their username and password, these credentials are sent to the attacker. 
@@ -47,21 +47,23 @@ Attackers can also leave infected USB flash drive  with tags such as ‘payroll�
 ### 4. Pretexting
 In this technique, an attacker uses __crafted lies__ to steal information. The attacker pretends to be from a trusted authority such as banks or police, so as to build trust.
 
-For instance, in a Kneyan context,  an attacker may impersonate a Safaricom customer care representative and asks the victim to reveal information such as ID number, MPESA Pin etc.
+For instance, in the Kenyan context, an attacker may impersonate a Safaricom customer care representative and ask the victim to reveal private information such as ID number, MPESA Pin etc.
 
 ### 5. Quid pro quo 
 Quid pro quo attacks promise a benefit in exchange for information. 
 
 ## Prevention of Social Engineering
 
-1. __Multi Factor Authentication(MFA)__ - Most attackers are after user credentials, therefore, multi factor authentication protects your accounts in the event of compromise. We'll cover MFA at a later time in depth. 
+1. __Multi Factor Authentication(MFA)__ - Most attackers are after user credentials, therefore, multi factor authentication protects your accounts in the event of compromise.
 2. __Install Anti Malware Software__ - Anti-malware software will detect and protect your machine from malicious attachments that contain malware.
 3. __Email Security__ - Email is currently the most common way cyber criminals launch and distribute threats. The level of sophistication of email attacks has increased over the past few years. It’s very vital to protect against phony emails. 
 Often email attachments are means of distributing malicious code. 
 
 Links in the emails may redirect to sites that seem legitimate but are used for phishing. Often by clicking these links, your system becomes infected and you too, will be propagating those links.
 
-Malware will __“read”__ an infected user’s email list and replicate itself to other users. Just because an email indicates it originates with trusted source doesn’t mean that is actually true.
+Malware will __“read”__ an infected user’s email list and replicate itself to other users.
+
+> Just because an email indicates it originates with trusted source doesn’t mean that is actually true.
 
 ![Phishing prevention meme](../images/phishingmeme.jpeg)
 
