@@ -79,7 +79,7 @@ Malicious websites with exploit kits embedded into them will hunt down vulnerabi
 Keeping your software updated at all times can be a serious hassle that involves too many update pop-ups. 
 
 ### 6. Beware of shortened links
-Malicious hackers user URL shorteners such as bitly or TinyURL, to disguise links to malicious websites by masking them. In other cases, URL shorteners will obfuscate the original link, so that antivirus or other security solutions have trouble detecting the malware hidden on the page.
+Malicious hackers use URL shorteners such as bitly or TinyURL, to disguise links to malicious websites by masking them. In other cases, URL shorteners will obfuscate the original link, so that antivirus or other security solutions have trouble detecting the malware hidden on the page.
 
 Fortunately, there are dedicated tools that can check these shortened links to make sure you won’t end up somewhere you wish you hadn’t.
 
@@ -92,7 +92,7 @@ Here’s a short list of URL checkers to help you out:
 
 ## More quick tips for identifying malicious websites
 1. Sites that say they have __“Scanned your computer and detected virus”__ should always be treated with suspicion. 
-1. Poorly built sites where it is difficult to find the information you are looking for. If every link seems to lead to an advertisement, find a more legitimate site to conduct your business.
+1. Poorly built sites, where it is difficult to find the information you are looking for, are questionable. If every link seems to lead to an advertisement, find a more legitimate site to conduct your business.
 1. Often __“free downloads”__ install malware on your system.
 1. Sites inundated with __“Buy Now”__ offers and pop-ups, indicates trouble.
 1. __Browser Hijacking:__ If a site won’t allow you to access any other site, be suspicious! Has your homepage or search engine has been modified without your permission?
