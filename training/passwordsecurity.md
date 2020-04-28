@@ -60,7 +60,7 @@ Strong passwords are hard to guess. Characteristics of a strong password include
 1. Separate personal from work. Use separate passwords for personal and work accounts. In case attackers compromise your personal accounts, your work accounts will be safe. 
 1. Depending on the sensitivity of the information being protected, you should change your passwords periodically, and avoid reusing a password for at least six months.
 1. Don’t tell anyone your password. Your trusted friend now might not be your friend in the future. Keep your passwords safe by keeping them to yourself.
-1. Do use at least eight characters of lowercase and uppercase letters, numbers, and symbols in your password. Remember, the more the merrier.
+1. Do use at least twelve characters of lowercase and uppercase letters, numbers, and symbols in your password. Remember, the more the merrier.
 1. Don't bunch up your special characters. Put your digits, symbols, and capital letters spread throughout the middle of your password, not just at the beginning or end. 
 
 > It's important to always use __Multi Factor Authentication(MFA)__ on all of your accounts. MFA is a method to double check whether it is you trying to access the account. Other than the password or passcode, another factor such as a security token or a smartphone can be used to validate that you are who you say you are online. An example is when you log into gmail and a verification code is sent to your mobile phone. 
