@@ -14,7 +14,7 @@
 # 5. Password Security 
 
 Passwords are used to log into most systems and applications. With increasing number of online accounts, people have a tendency to use simple and easy to remember passwords that are shared among these sites. For instance, you will find someone using the same password for both gmail and facebook. 
-Cyber attackers will try common password phrases in an attempt to crack your password. If correctly cracked, the attacker has access to all the sites that this password is used.
+Cyber attackers will try common password phrases in an attempt to crack your password. If correctly cracked, the attacker has access to all the sites that this password is used, especially when multi-factor authentication is not enabled.
 
 ## How are passwords discovered?
 
