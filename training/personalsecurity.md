@@ -77,11 +77,11 @@ These tips will help you stay safe online while telecommuting normally or during
 
 ### 7. Use secured platforms 
 * Switch to secure authentication services and Virtual Private Networks (VPNS) to send sensitive information.
-* Use "hacker-proof" remote collaboration tools like Wire & Microsoft Teams. 
+* Use "hacker-proof" remote collaboration tools such as Wire. See the [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications) module for more secure tool recommendations. 
 
 ### 8. Go offline 
 * Disable your Wi-Fi at night to prevent cyberattacks. 
-* Swicth off borh your VPN and your computer at the end of the day to enable system updates. 
+* Switch off both your VPN and your computer at the end of the day to enable system updates. 
 
  Next > [5. Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity) 
 
