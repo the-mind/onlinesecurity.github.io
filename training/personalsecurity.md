@@ -31,7 +31,7 @@ This refers to any information that can lead to locating and contacting an indiv
 * Biometrics
 *	KRA Pin 
 * NHIF(National Hospital Insurance Fund) Number
-* NSSF(National Social Secuity Fund) Number
+* NSSF(National Social Security Fund) Number
 
 ![Personally Identifiable Information](../images/pii.png)
 
