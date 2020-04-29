@@ -60,6 +60,12 @@ Year   | Centralized Learning  | Mentoring Multipliers
 
 It's crucial to have people in the movement who are onboarding others in a way that multiplies itself. 
 
+
+## How you can contribute ##
+1. __Contributing__ - This project is licensed under the [Mozilla Public License 2.0](https://github.com/the-mind/OnlineSecurity/blob/master/LICENSE){:target="_blank"}. It's open source and you can contribute to it by adding concepts/topics that you feel have been left out through github. Just submit a Pull Request and we'll review it. Have a look at our [Contributing Guidelines](https://github.com/the-mind/OnlineSecurity/blob/master/CONTRIBUTING.md){:target="_blank"} and our [Code of Conduct](https://github.com/the-mind/onlinesecurity.github.io/blob/master/CODE_OF_CONDUCT.md){:target="_blank"} .
+2. __Mentorship__ - If you want to be a mentor, kindly contact mentorship@digital-safety.net . 
+3. __Training__ - If you want to be a trainer express your interest at training@digital-safety.net .
+
 ## Acknowledgements
 
 This training and mentoring program would not be possible without funding from our Sponsor [e.KRAAL Innovation Hub](https://e-kraal.com/){:target="_blank"} , our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs){:target="_blank"} & [Chad Sansing](https://twitter.com/chadsansing){:target="_blank"}  and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code){:target="_blank"} . 
