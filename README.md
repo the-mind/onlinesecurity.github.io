@@ -52,6 +52,6 @@ It's crucial to have people in the movement who are onboarding others in a way t
 
 
 ## License ##
-[Mozilla Public License 2.0](https://github.com/the-mind/OnlineSecurity/blob/master/LICENSE)
+This project is licensed under the [Mozilla Public License 2.0](https://github.com/the-mind/OnlineSecurity/blob/master/LICENSE).
 
   
