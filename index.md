@@ -1,15 +1,15 @@
 ## Table of Contents
 
-1. [Introduction](https://the-mind.github.io/OnlineSecurity/)
-1. [Introduction to Cybersecurity](https://the-mind.github.io/OnlineSecurity/training/introduction)
-1. [Cybersecurity Threats](https://the-mind.github.io/OnlineSecurity/training/cybersecuritythreats)
-    * [3.1 Social Engineering](https://the-mind.github.io/OnlineSecurity/training/socialengineering)
-    * [3.2 Malware](https://the-mind.github.io/OnlineSecurity/training/malware)
-    * [3.3 Malicious Websites](https://the-mind.github.io/OnlineSecurity/training/maliciouswebsites)
-1. [Personal Security](https://the-mind.github.io/OnlineSecurity/training/personalsecurity)
-1. [Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity)
-1. [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications)
-    * [6.1 Secure your Instant Messaging Apps](https://the-mind.github.io/OnlineSecurity/training/secureim) 
+1. [Introduction](https://digital-safety.net)
+1. [Introduction to Cybersecurity](https://digital-safety.net/training/introduction)
+1. [Cybersecurity Threats](https://digital-safety.net/training/cybersecuritythreats)
+    * [3.1 Social Engineering](https://digital-safety.net/training/socialengineering)
+    * [3.2 Malware](https://digital-safety.net/training/malware)
+    * [3.3 Malicious Websites](https://digital-safety.net/training/maliciouswebsites)
+1. [Personal Security](https://digital-safety.net/training/personalsecurity)
+1. [Password Security](https://digital-safety.net/training/passwordsecurity)
+1. [Secure Online Communications](https://digital-safety.net/training/securecommunications)
+    * [6.1 Secure your Instant Messaging Apps](https://digital-safety.net/training/secureim) 
     
 # 1. Introduction
 
@@ -64,5 +64,5 @@ It's crucial to have people in the movement who are onboarding others in a way t
 
 This training and mentoring program would not be possible without funding from our Sponsor [e.KRAAL Innovation Hub](https://e-kraal.com/){:target="_blank"} , our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs){:target="_blank"} & [Chad Sansing](https://twitter.com/chadsansing){:target="_blank"}  and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code){:target="_blank"} . 
 
-__Next__ > [2. Introduction to Cybersecurity](https://the-mind.github.io/OnlineSecurity/training/introduction) 
+__Next__ > [2. Introduction to Cybersecurity](https://digital-safety.net/training/introduction) 
 
