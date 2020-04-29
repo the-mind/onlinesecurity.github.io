@@ -65,8 +65,8 @@ It's crucial to have people in the movement who are onboarding others in a way t
 __Contributing__ - This project is licensed under the [Mozilla Public License 2.0](https://github.com/the-mind/OnlineSecurity/blob/master/LICENSE){:target="_blank"}. It's open source and you can contribute to it by adding concepts/topics that you feel have been left out through github. Just submit a Pull Request and we'll review it. Have a look at our [Contributing Guidelines](https://github.com/the-mind/OnlineSecurity/blob/master/CONTRIBUTING.md){:target="_blank"} and our [Code of Conduct](https://github.com/the-mind/onlinesecurity.github.io/blob/master/CODE_OF_CONDUCT.md){:target="_blank"} .
 
 ## Contacts
-1. __Mentorship__ - If you want to be a mentor, kindly contact mentorship@digital-safety.net . 
-1. __Training__ - If you want to be a trainer kindly contact training@digital-safety.net .
+1. __Mentorship__ - If you want to be a mentor, kindly contact __mentorship@digital-safety.net__ . 
+1. __Training__ - If you want to be a trainer kindly contact __training@digital-safety.net__ .
 1. __Social Media__ - Follow us on Twitter [@digisafety](https://twitter.com/DigiSafety){:target="_blank"}. 
 
 ## Acknowledgements
