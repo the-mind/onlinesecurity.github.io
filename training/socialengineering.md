@@ -9,7 +9,7 @@
 1. [Personal Security](https://digital-safety.net/training/personalsecurity)
 1. [Password Security](https://digital-safety.net/training/passwordsecurity)
 1. [Secure Online Communications](https://digital-safety.net/training/securecommunications)
-    * [6.1 Secure your Instant Messaging Apps](https://digital-safety.net/training/secureim) 
+    * [6.1 Secure your Instant Messaging Apps](https://digital-safety.net/training/secureim)
     
 # 3.1 Social Engineering
 Social engineering is a technique that uses psychological manipulation to trick users into making security mistakes or giving away sensitive information. This is one of the greatest threats to cybersecurity today because it takes advantage of people’s trusting nature hence it is less predictable and harder to detect and respond to. 
