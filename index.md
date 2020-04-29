@@ -66,7 +66,7 @@ __Contributing__ - This project is licensed under the [Mozilla Public License 2.
 
 ## Contacts
 1. __Mentorship__ - If you want to be a mentor, kindly contact [mentorship@digital-safety.net](mailto:mentorship@digital-safety.net){:target="_blank"}. 
-1. __Training__ - If you want to be a trainer kindly contact [training@digital-safety.net](mailto:training@digital-safety.net){:target="_blank"}.
+1. __Training__ - If you want to be a trainer, kindly contact [training@digital-safety.net](mailto:training@digital-safety.net){:target="_blank"}.
 1. __Social Media__ - Follow us on Twitter [@digisafety](https://twitter.com/DigiSafety){:target="_blank"}. 
 
 ## Acknowledgements
