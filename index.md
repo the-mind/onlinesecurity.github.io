@@ -67,7 +67,7 @@ It's crucial to have people in the movement who are onboarding others in a way t
 ## Contacts
 1. __Mentorship__ - If you want to be a mentor, kindly contact mentorship@digital-safety.net . 
 1. __Training__ - If you want to be a trainer kindly contact training@digital-safety.net .
-1. __Social Media__ - Follow us on Twitter [@digisafety](https://twitter.com/DigiSafety). 
+1. __Social Media__ - Follow us on Twitter [@digisafety](https://twitter.com/DigiSafety){:target="_blank"}. 
 
 ## Acknowledgements
 
