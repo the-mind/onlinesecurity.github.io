@@ -1,15 +1,15 @@
 ## Table of Contents
 
-1. [Introduction](https://the-mind.github.io/OnlineSecurity/)
-1. [Introduction to Cybersecurity](https://the-mind.github.io/OnlineSecurity/training/introduction)
-1. [Cybersecurity Threats](https://the-mind.github.io/OnlineSecurity/training/cybersecuritythreats)
-    * [3.1 Social Engineering](https://the-mind.github.io/OnlineSecurity/training/socialengineering)
-    * [3.2 Malware](https://the-mind.github.io/OnlineSecurity/training/malware)
-    * [3.3 Malicious Websites](https://the-mind.github.io/OnlineSecurity/training/maliciouswebsites)
-1. [Personal Security](https://the-mind.github.io/OnlineSecurity/training/personalsecurity)
-1. [Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity)
-1. [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications)
-    * [6.1 Secure your Instant Messaging Apps](https://the-mind.github.io/OnlineSecurity/training/secureim) 
+1. [Introduction](https://digital-safety.net)
+1. [Introduction to Cybersecurity](https://digital-safety.net/training/introduction)
+1. [Cybersecurity Threats](https://digital-safety.net/training/cybersecuritythreats)
+    * [3.1 Social Engineering](https://digital-safety.net/training/socialengineering)
+    * [3.2 Malware](https://digital-safety.net/training/malware)
+    * [3.3 Malicious Websites](https://digital-safety.net/training/maliciouswebsites)
+1. [Personal Security](https://digital-safety.net/training/personalsecurity)
+1. [Password Security](https://digital-safety.net/training/passwordsecurity)
+1. [Secure Online Communications](https://digital-safety.net/training/securecommunications)
+    * [6.1 Secure your Instant Messaging Apps](https://digital-safety.net/training/secureim)
     
 # 4. Personal Security
 
@@ -77,12 +77,12 @@ These tips will help you stay safe online while telecommuting normally or during
 
 ### 7. Use secured platforms 
 * Switch to secure authentication services and Virtual Private Networks (VPNS) to send sensitive information.
-* Use "hacker-proof" remote collaboration tools such as Wire. See the [Secure Online Communications](https://the-mind.github.io/OnlineSecurity/training/securecommunications) module for more secure tool recommendations. 
+* Use "hacker-proof" remote collaboration tools such as Wire. See the [Secure Online Communications](https://digital-safety.net/training/securecommunications) module for more secure tool recommendations. 
 
 ### 8. Go offline 
 * Disable your Wi-Fi at night/when not in use to prevent cyberattacks. 
 * Switch off both your VPN and your computer at the end of the day to enable system updates. 
 
- Next > [5. Password Security](https://the-mind.github.io/OnlineSecurity/training/passwordsecurity) 
+ Next > [5. Password Security](https://digital-safety.net/training/passwordsecurity) 
 
 
