@@ -47,7 +47,9 @@ It's crucial to have people in the movement who are onboarding others in a way t
 
 ## How you can contribute ##
 1. __Contributing__ - This course and training content is Open Source and you can contribute to it by adding concepts/topics that you feel have been left out. Just submit a Pull Request and we'll review it. Have a look at our [Contributing Guidelines](https://github.com/the-mind/OnlineSecurity/blob/master/CONTRIBUTING.md).
-2. __Mentoring/Training__ - If you want to mentor or train our mentees in a specific topic, kindly contact maurineeng@gmail.com or brianobie91@gmail.com .
+2. __Mentorship__ - If you want to be a mentor kindly express your interest at mentorship@digital-safety.net
+3. __Training__ - If you want to be a trainer express your interest at training@digital-safety.net
+
 
 ## License ##
 [Mozilla Public License 2.0](https://github.com/the-mind/OnlineSecurity/blob/master/LICENSE)
