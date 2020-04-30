@@ -25,4 +25,4 @@ Submit a pull request. This opens a discussion around the project and lets the p
 
 ## Contact Information ##
 
-Feel free to contact: brianobie91@gmail.com or maurineeng@gmail.com 
+Feel free to contact: brian@digital-security.net or maurine@digital-securiy.net 
