@@ -77,7 +77,6 @@ Malware will __“read”__ an infected user’s email list and replicate itself
 ## Activity 
 Participants should watch the following videos:
 
-
 {% include youtube.html id='lc7scxvKQOo' %}
 
 <br/>
@@ -86,13 +85,13 @@ Participants should watch the following videos:
 
 <br/>
 
-This is what happens when you respond to spam. 
-__* Part 1__
+This is what happens when you respond to spam:
+* Part 1
+
 {% include youtube.html id='_QdPW8JrYzQ' %}
 
 <br/>
-
-__* Part 2__
+* Part 2
 <br/>
 
 {% include youtube.html id='C4Uc-cztsJo' %}
