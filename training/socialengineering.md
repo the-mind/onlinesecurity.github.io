@@ -86,6 +86,8 @@ Participants should watch the following videos:
 
 <br/>
 
+{% include youtube.html id='QdPW8JrYzQ' %}
+
 Participants will also be taken through practical identification of phishing emails during the online session. Image used for the session. 
 
 ![Phishing prevention meme](../images/phishingbreakdown.png)
