@@ -50,10 +50,10 @@ __Common risks/recommendations for email systems:__
 
 * Common threats for email security includes: malicious attachments, email interception, weak passwords, spamming, phishing/spear phishing. 
 * Some ways to manage these common problems include:
- * no opening suspicious emails/links, 
-  *take note of where you use your email address (i.e. sign ups on websites),
-  *use more secure/stronger passwords, 
-  *Do __NOT__ reply to SPAM. 
+   * no opening suspicious emails/links, 
+   * take note of where you use your email address (i.e. sign ups on websites),
+   * use more secure/stronger passwords, 
+   * Do __NOT__ reply to SPAM. 
 
 Possible products to consider:
 
