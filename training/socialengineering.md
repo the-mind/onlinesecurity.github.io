@@ -87,15 +87,12 @@ Participants should watch the following videos:
 <br/>
 
 This is what happens when you respond to spam. 
-
-__Part 1__
-
+__* Part 1__
 {% include youtube.html id='_QdPW8JrYzQ' %}
 
 <br/>
 
-__Part 2__
-
+__* Part 2__
 <br/>
 
 {% include youtube.html id='C4Uc-cztsJo' %}
