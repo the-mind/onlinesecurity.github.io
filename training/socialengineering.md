@@ -88,13 +88,13 @@ Participants should watch the following videos:
 
 This is what happens when you respond to spam. 
 
-1. Part 1
+__Part 1__
 
 {% include youtube.html id='_QdPW8JrYzQ' %}
 
 <br/>
 
-2. Part 2
+__Part 2__
 
 <br/>
 
