@@ -86,7 +86,20 @@ Participants should watch the following videos:
 
 <br/>
 
-{% include youtube.html id='QdPW8JrYzQ' %}
+This is what happens when you respond to spam. 
+
+1. Part 1
+
+{% include youtube.html id='_QdPW8JrYzQ' %}
+
+<br/>
+
+2. Part 2
+
+<br/>
+
+{% include youtube.html id='C4Uc-cztsJo' %}
+
 
 Participants will also be taken through practical identification of phishing emails during the online session. Image used for the session. 
 
