@@ -5,6 +5,8 @@ The Accessible Online Security program is a training and mentorship program aime
 2. Secure Online Communication
 3. Privacy Laws and Regulation 
 
+Visit our website: digital-safety.net(https://digital-safety.net/)
+
 ## Impact ##
 __Vision:__ Nurture new voices of Openness and Digital Safety in our community. 
 
